@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "An access of functions that help developers run easy code, full code can be copied or you can download the NPM module \"dev-help\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaffersyed0206/dev-help.git"
+  },
+  "author": "JAFFER SYED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaffersyed0206/dev-help/issues"
+  },
+  "homepage": "https://github.com/jaffersyed0206/dev-help#readme"
+}
